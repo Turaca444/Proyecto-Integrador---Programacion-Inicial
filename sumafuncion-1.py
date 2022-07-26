@@ -21,19 +21,12 @@ def main():
             lista  = lista + [valor]
             suma = suma + valor
  
-        print("=============================================", "\n")    
+        print("=============================================")    
         print(f"La Suma de Numeros Enteros es Igual a: ", suma)
-        
-        promedio = 0
-        promedio = suma / num
-
-        print("=============================================", "\n")
-        print("El Promedio es: ", promedio)
-        print("=============================================", "\n")
-
-        
+        print("===========================================================", "\n")
+                
         print("La Lista contiene los Siguientes Valores: ", lista)
-        print("=============================================", "\n")
+        print("===========================================================")
         
         
 
