@@ -9,7 +9,7 @@ suma = 0
 for i in range ( 1, 6):
     valor = int(input(f"Escriba el Numero Entero {i}: "))
     lista  = lista + [valor]
-    suma = suma + i
+    suma = suma + valor
 def funcion_sumar ():
     
     print("=============================================", "\n")    
