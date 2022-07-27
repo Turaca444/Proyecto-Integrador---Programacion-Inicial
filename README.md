@@ -1,4 +1,4 @@
-Instituto Superior Politécnico Córdoba 
+Instituto Superior Politécnico Córdoba - Técnicatura Superior en Innovación con Tecnológia 4.0
 
 Programación Inicial
 
