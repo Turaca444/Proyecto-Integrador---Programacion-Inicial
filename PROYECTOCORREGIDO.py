@@ -1,6 +1,6 @@
-print("=============================================")
+print("=================================================================")
 print("Bienvenidos!.... A continuacion, debera Ingresar 5 Numeros Enteros")
-print("=============================================", "\n")
+print("=================================================================", "\n")
    
 num = 5
 lista = []
@@ -36,7 +36,10 @@ def funcion_maximo ():
 
 funcion_maximo ()
         
+def funcion_minimo ():
+    print ("El valor minimo ingresado es: ", min (lista))
+    print("=============================================", "\n")
 
-
+funcion_minimo ()
               
         
